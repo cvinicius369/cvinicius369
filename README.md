@@ -1,4 +1,4 @@
-# Hello
+# Hey
 
 I'm Caio Vinicius.
 
@@ -12,6 +12,7 @@ I'm from Brazil, (Goiás-Br), i usually program software that helps me in my dai
 ![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub&style=for-the-badge)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=linux&style=for-the-badge)
 ![Markdown](https://img.shields.io/badge/-Markdown-000?&logo=markdown&style=for-the-badge)
+![C#](https://img.shields.io/badge/-Csharp-000?&logo=csharp&logoColor=purple&color=black&style=for-the-badge)
 ![C++](https://img.shields.io/badge/-C++-000?&color=darkblue&style=for-the-badge)
 ![Arduino](https://img.shields.io/badge/-Arduino-000?&logo=arduino&logoColor=black&color=279c87&style=for-the-badge)
 
