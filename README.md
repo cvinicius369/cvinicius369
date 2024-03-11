@@ -1,7 +1,9 @@
 # Hello
+
 I'm Caio Vinicius.
 
-I'm from Brazil, (Goiás-Br).
+I'm from Brazil, (Goiás-Br), i usually program software that helps me in my daily life, however, I have some projects that are more of a hobby, such as text RPG (in C#), artificial intelligence in C++. Even though this artificial intelligence is very outdated, I like to make adjustments to it and use it in my daily life.
+
 ### My main projects use
 
 ![HTML](https://img.shields.io/badge/-HTML-000?&logo=html5&style=for-the-badge)
@@ -18,9 +20,11 @@ For my AI i very use : <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@la
  For my Website i use: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="30" height="30" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="30" height="30" /> 
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="30" height="30"/> 
                 
+## Black Dragon
 
+<a href="https://cvinicius369.github.io/BlackDragon/"><img src="https://cvinicius369.github.io/BlackDragon/images/iconaba.jpg" width="70" height="70"/></a>
 ### Contacts
 <div>
 <a href="https://instagram.com/seu-usuário-instagram-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "mailto:whitedragon36915@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href = "mailto:vinicius182102@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
