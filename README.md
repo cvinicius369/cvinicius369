@@ -63,6 +63,6 @@ I'm from Brazil, (Goiás-Br), i usually program software that helps me in my dai
         <img loading="lazy" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=279c87&color=black">
     </a>
     <a>
-         <img loading="lazy" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white&color=darkred">
+         <img loading="lazy" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=red&color=black">
     </a>
 </div>
