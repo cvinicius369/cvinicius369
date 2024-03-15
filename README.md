@@ -4,18 +4,7 @@ I'm Caio Vinicius.
 
 <div align="center"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cvinicius369&theme=algolia"></div>
 
-I usually program software that helps me in my daily life. I have a AI, even though this artificial intelligence is very outdated, I like to make adjustments to it and use it in my daily life.
-
-### My main projects use
-
-![HTML](https://img.shields.io/badge/-HTML-000?&logo=html5&style=for-the-badge)
-![CSS](https://img.shields.io/badge/-CSS-000?&logo=css3&logoColor=1572B6&style=for-the-badge)
-![JS](https://img.shields.io/badge/-JS-000?&logo=javascript&logoColor=yellow&style=for-the-badge)
-![Markdown](https://img.shields.io/badge/-Markdown-000?&logo=markdown&style=for-the-badge)
-![C#](https://img.shields.io/badge/-Csharp-000?&logo=csharp&logoColor=purple&color=black&style=for-the-badge)
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=blue&color=black"/>
-![Arduino](https://img.shields.io/badge/-Arduino-000?&logo=arduino&logoColor=279c87&color=black&style=for-the-badge)
-
+I usually program software that helps me in my daily life. I have a AI 🤖, even though this artificial intelligence is very outdated, I like to make adjustments to it and use it in my daily life.
 <div>
     <h3 align="center">I have familiarity with </h3>
     <ul>
