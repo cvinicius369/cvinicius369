@@ -2,6 +2,9 @@
 
 I'm Caio Vinicius.
 
+<div align="center"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cvinicius369&theme=algolia"></div>
+
+
 I'm from Brazil, (Goiás-Br), i usually program software that helps me in my daily life, however, I have some projects that are more of a hobby, such as text RPG (in C#), artificial intelligence in C++. Even though this artificial intelligence is very outdated, I like to make adjustments to it and use it in my daily life.
 
 ### My main projects use
