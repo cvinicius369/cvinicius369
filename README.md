@@ -2,7 +2,11 @@
 
 I'm Caio Vinicius.
 
-<div align="center"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cvinicius369&theme=algolia"></div>
+<div align="center"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cvinicius369&theme=midnight_purple">
+     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=cvinicius369&theme=midnight_purple">  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=cvinicius369&theme=midnight_purple&utcOffset=8"><br>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cvinicius369&layout=compact&theme=midnight-purple"> <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cvinicius369&theme=midnight_purple"> <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cvinicius369&theme=midnight_purple">
+    
+</div>
 
 I usually program software that helps me in my daily life. I have a AI 🤖, even though this artificial intelligence is very outdated, I like to make adjustments to it and use it in my daily life.
 <div>
