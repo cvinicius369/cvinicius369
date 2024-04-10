@@ -58,3 +58,7 @@ I usually program software that helps me in my daily life. I have a AI 🤖, eve
          <img loading="lazy" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=red&color=black">
     </a>
 </div>
+
+<p align="center">
+ <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+</p>
