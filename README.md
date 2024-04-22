@@ -53,7 +53,7 @@ I usually program software that helps me in my daily life. I have a AI 🤖, eve
     <a href = "wa.me/5562993882350">
         <img loading="lazy" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=279c87&color=black">
     </a>
-    <a>
+    <a href="https://cvinicius369.github.io/About_Me/">
          <img loading="lazy" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=red&color=black">
     </a>
 </div>
