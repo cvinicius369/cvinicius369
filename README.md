@@ -2,14 +2,16 @@
 
 I'm Caio Vinicius.
 
-<div align="center"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cvinicius369&theme=midnight_purple">
- <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=cvinicius369&theme=midnight_purple&utcOffset=8"><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cvinicius369&theme=midnight_purple"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cvinicius369&layout=compact&theme=midnight-purple"> 
+<div align="center">
+    <a href="https://github.com/RoriFloris">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=cvinicius369&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="96%" alt="activity graph">
+    </a>
 </div>
 
 I usually program software that helps me in my daily life. I have a AI 🤖, even though this artificial intelligence is very outdated, I like to make adjustments to it and use it in my daily life.
 <div>
-    <h3 align="center">I have familiarity with </h3>
-    <ul align="center">
+    <h3>Technologies</h3>
+    <ul>
         <img loading="lazy" src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=279c87&color=black"> 
         <img loading="lazy" src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=279c87&color=black">  
         <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=blue&color=black"/>
@@ -44,9 +46,6 @@ I usually program software that helps me in my daily life. I have a AI 🤖, eve
 
 <div align="center">
     <h3> Contacts </h3>
-    <a href="https://instagram.com/seu-usuário-instagram-aqui" target="_blank">
-         <img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=violet&color=black" target="_blank">    
-    </a>
     <a href = "mailto:vinicius182102@gmail.com">
          <img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=red&color=black" target="_blank">
     </a>
