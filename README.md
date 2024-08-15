@@ -1,5 +1,4 @@
 # Hey
-
 I'm Caio Vinicius.
 
 <div align="center">
@@ -12,6 +11,7 @@ I usually program software that helps me in my daily life. I have a AI 🤖, eve
 <div>
     <h3>Technologies</h3>
     <ul>
+        <img src="https://img.shields.io/badge/hibernate-2C2D72?style=for-the-badge&logo=hibernate&logoColor=yellow&color=black"/>
         <img loading="lazy" src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=279c87&color=black"> 
         <img loading="lazy" src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=279c87&color=black">  
         <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=blue&color=black"/>
