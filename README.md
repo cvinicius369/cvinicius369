@@ -1,9 +1,8 @@
-# Hey
-I'm Caio Vinicius.
+# Hello There ✋
+I'm Caio Vinicius, student of software enginee, me too student of cybersecurity and i also practice some software architecture projects, i'm always improving my knowledge and putting it into practice, whether updating projects I've already created on this profile, or creating new projects, recently discovered a preference for embedded and low-level software.
 
 <div align="center">
     <a href="https://github.com/RoriFloris">
-       <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=cvinicius369&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="96%" alt="activity graph"> -->
     </a>
 </div>
 
@@ -39,6 +38,7 @@ I usually program software that helps me in my daily life. I have a AI 🤖, eve
               
 <div align="center">
     <h3> Black Dragon Library </h3>
+    <p>This is a virtual library that I created where it has some of the books I got on the internet, making them accessible, it was my first official front-end project (and also what allowed me to discover that I prefer the backend ksks)</p>
     <a href="https://black-dragon-black.vercel.app">
        <img src="https://cvinicius369.github.io/BlackDragon/images/iconaba.jpg" width="70" height="70"/>
     </a>
