@@ -36,7 +36,7 @@ I usually program software that helps me in my daily life. I have a AI 🤖, eve
     </ul>
 </div>
 <div align="center">
-    <h1>⚠️ Atention ⚠️</h1>
+    <h1>⚠️ Attention ⚠️</h1>
     📢 Para programadores BR: Estou formando uma equipe freelancer com profissionais de diferentes áreas da programação. O objetivo é criar um ambiente colaborativo, onde todos possam aprender e crescer juntos. Se tiver interesse em fazer parte, entre em contato!
 </div>
 <div align="center">
