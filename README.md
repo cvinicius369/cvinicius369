@@ -35,15 +35,10 @@ I usually program software that helps me in my daily life. I have a AI 🤖, eve
         <img src="https://img.shields.io/badge/-CSS-000?&logo=css3&logoColor=1572B6&style=for-the-badge"/>
     </ul>
 </div>
-              
 <div align="center">
-    <h3> Black Dragon Library </h3>
-    <p>This is a virtual library that I created where it has some of the books I got on the internet, making them accessible, it was my first official front-end project (and also what allowed me to discover that I prefer the backend ksks)</p>
-    <a href="https://black-dragon-black.vercel.app">
-       <img src="https://cvinicius369.github.io/BlackDragon/images/iconaba.jpg" width="70" height="70"/>
-    </a>
+    <h1>⚠️ Atention ⚠️</h1>
+    📢 Para programadores BR: Estou formando uma equipe freelancer com profissionais de diferentes áreas da programação. O objetivo é criar um ambiente colaborativo, onde todos possam aprender e crescer juntos. Se tiver interesse em fazer parte, entre em contato!
 </div>
-
 <div align="center">
     <h3> Contacts </h3>
     <a href = "mailto:vinicius182102@gmail.com">
@@ -52,7 +47,7 @@ I usually program software that helps me in my daily life. I have a AI 🤖, eve
     <a href = "wa.me/5562993882350">
         <img loading="lazy" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=279c87&color=black">
     </a>
-    <a href="">
+    <a href="https://about-me-brown-three.vercel.app">
          <img loading="lazy" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=red&color=black">
     </a>
 </div>
