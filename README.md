@@ -53,7 +53,10 @@ I usually program software that helps me in my daily life. I have a AI 🤖, eve
     </a>
 </div>
 
-<div align='center'><img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cvnicius369&hide_progress=true&theme=aura" alt="ilustração do status do github"></div>
+<div align='center'>
+    <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cvinicius369&hide_progress=true&theme=dark" alt="ilustração do status do github">
+</div>
+
 
 <p align="center">
  <img width="1000" src="assets/github-snake.svg" alt="snake"/>
