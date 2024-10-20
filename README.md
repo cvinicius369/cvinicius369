@@ -32,9 +32,10 @@ I usually program software that helps me in my daily life. I have a AI 🤖, eve
         <img src="https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=for-the-badge&logo=WeightsAndBiases&logoColor=yellow&color=black"/>
         <img src="https://img.shields.io/badge/-JS-000?&logo=javascript&logoColor=yellow&style=for-the-badge"/>
         <img src="https://img.shields.io/badge/-HTML-000?&logo=html5&style=for-the-badge"/>
-        <img src="https://img.shields.io/badge/-CSS-000?&logo=css3&logoColor=1572B6&style=for-the-badge"/>
+        <img src="https://img.shields.io/badge/-CSS-000?&logo=css3&logoColor=1572B6&style=for-the-badge"/><br>
     </ul>
 </div>
+
 <div align="center">
     <h1>⚠️ Attention ⚠️</h1>
     📢 Para programadores BR: Estou formando uma equipe freelancer com profissionais de diferentes áreas da programação. O objetivo é criar um ambiente colaborativo, onde todos possam aprender e crescer juntos. Se tiver interesse em fazer parte, entre em contato!
@@ -51,6 +52,8 @@ I usually program software that helps me in my daily life. I have a AI 🤖, eve
          <img loading="lazy" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=red&color=black">
     </a>
 </div>
+
+<div align='center'><img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cvnicius369&hide_progress=true&theme=aura" alt="ilustração do status do github"></div>
 
 <p align="center">
  <img width="1000" src="assets/github-snake.svg" alt="snake"/>
