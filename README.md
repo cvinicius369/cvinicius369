@@ -50,11 +50,11 @@ I usually program software that helps me in my daily life. I have a AI 🤖, eve
     </a>
     <a href="https://about-me-brown-three.vercel.app">
          <img loading="lazy" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=red&color=black">
-    </a>
+    </a><br>
 </div>
 
 <div align='center'>
-    <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cvinicius369&hide_progress=true&theme=dark" alt="ilustração do status do github">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cvinicius369&theme=shadow_blue&layout=compact&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8"width="40%"/> 
 </div>
 
 
