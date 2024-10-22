@@ -54,7 +54,7 @@ I usually program software that helps me in my daily life. I have a AI 🤖, eve
 </div>
 
 <div align='center'>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cvinicius369&theme=shadow_blue&layout=compact&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8"width="40%"/> 
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cvinicius369&theme=shadow_blue&layout=compact&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=10"width="40%"/> 
 </div>
 
 
