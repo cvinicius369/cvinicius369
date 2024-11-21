@@ -45,6 +45,9 @@ I am forming a **freelance team** with professionals from diverse programming fi
     <a href="https://about-me-brown-three.vercel.app">
         <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
     </a>
+    <a href="https://www.instagram.com/k410369">
+        <img src="https://img.shields.io/badge/Instagram-D14836?style=for-the-badge&logo=instagram&logoColor=white&color=E1306C" alt="Email" />
+    </a>
 </div>
 
 ---
