@@ -1,7 +1,6 @@
-# 👋 Welcome to My GitHub Profile  
-
+# 👋 Hello There!
 ### 🚀 About Me  
-Hi, I'm **Caio Vinicius**, a passionate **Software Engineering Student**, specializing in **Cybersecurity** and **Software Architecture**.  
+A passionate **Software Engineering Student**, specializing in **Cybersecurity** and **Software Architecture**.  
 I enjoy turning ideas into reality by building useful and creative software. Recently, I’ve been diving deep into **embedded systems** and **low-level programming**, constantly learning and applying new technologies.  
 
 I also maintain an **AI assistant** 🤖—while it's still a work-in-progress, it’s a project I love refining and integrating into my daily life.  
@@ -9,7 +8,7 @@ I also maintain an **AI assistant** 🤖—while it's still a work-in-progress, 
 ---
 
 ### 🌟 Expertise  
-I work with a diverse range of technologies and tools to bring projects to life:  
+I work with a wide range of technologies and tools to bring projects to life, I can't list them all here, so these are some of them: 
 
 <div align="center">
     <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=blue&color=black" />
@@ -20,6 +19,7 @@ I work with a diverse range of technologies and tools to bring projects to life:
     <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=blue&color=black" />
     <img src="https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white&color=black" />
     <img src="https://img.shields.io/badge/Zig-F7A41D?style=for-the-badge&logo=zig&logoColor=white&color=black" />
+    <img src="https://img.shields.io/badge/Assembly-007ACC?style=for-the-badge&logo=assemblyscript&logoColor=white&color=black" />
 </div>
 
 ---
@@ -39,14 +39,14 @@ I am forming a **freelance team** with professionals from diverse programming fi
     <a href="mailto:vinicius182102@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
-    <a href="https://wa.me/5562993882350">
-        <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
-    </a>
     <a href="https://about-me-brown-three.vercel.app">
-        <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
+        <img src="https://img.shields.io/badge/My Page-000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
     </a>
     <a href="https://www.instagram.com/k410369">
         <img src="https://img.shields.io/badge/Instagram-D14836?style=for-the-badge&logo=instagram&logoColor=white&color=E1306C" alt="Email" />
+    </a>
+    <a href="linkedin.com/in/caio-vinícius-de-a-faguette-528175295">
+        <img src="https://img.shields.io/badge/Linkedin-D14836?style=for-the-badge&logo=linkedin&logoColor=white&color=blue" alt="linkedin" />
     </a>
 </div>
 
