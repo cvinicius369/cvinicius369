@@ -1,4 +1,4 @@
-<img src="Caio vinicius.png" alt="linkedin" width=700/>
+<img src="Caio vinicius.png" alt="imagem" width=700/>
 
 ---
 ## 🚀 About Me  
