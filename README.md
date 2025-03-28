@@ -3,7 +3,7 @@
 ---
 ## 🚀 About Me  
 
-    Specialized in low-level development, robotics, and cybersecurity, with a focus on C++, Python, and Java (and some Assembly). I work in embedded systems development, artificial intelligence, and automation, optimizing performance, security, and hardware-software integration.
+Specialized in low-level development, robotics, and cybersecurity, with a focus on C++, Python, and Java (and some Assembly). I work in embedded systems development, artificial intelligence, and automation, optimizing performance, security, and hardware-software integration.
 
 ### 💡 Habilidades:
 
