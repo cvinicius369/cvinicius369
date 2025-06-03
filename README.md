@@ -1,32 +1,43 @@
 <img src="assets/Caio vinicius.png" alt="imagem" width="100%"/>
 
 ---
-## 🚀 About Me  
+## 👋 Hi there! I'm Caio Vinicius
 
-Specialized in low-level development, robotics, and cybersecurity, with a focus on C++, Python, and Java (and some Assembly). I work in embedded systems development, artificial intelligence, and automation, optimizing performance, security, and hardware-software integration.
+🎓 Final-year Software Engineering student  
+🔐 Cybersecurity enthusiast & ethical hacking hobbyist  
+⚙️ Software developer focused on automation, embedded systems, and real-world solutions  
+🧠 Passionate about lifelong learning and solving technical challenges
 
-### 💡 Habilidades:
+---
 
-    ✔️ Sistemas embarcados e tempo real
-    ✔️ IA e redes neurais em C++
-    ✔️ Robótica e automação
-    ✔️ Otimização de código e desempenho
-    ✔️ Cibersegurança e análise de vulnerabilidades
+## 🚀 Tech Stack & Tools
 
---- 
-## 📬 Contacts  
+- **Languages:** C++, Python, Java, Assembly
+- **Cybersecurity:** Metasploit, Wireshark, Nmap, Netcat, John the Ripper
+- **Platforms:** Linux (Kali, Arch, Ubuntu), HackTheBox, Arduino
+- **Skills:** Reverse engineering, bot automation, secure server setup, shell scripting
 
-<div align="center">
-    <a href="mailto:vinicius182102@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-    <a href="https://about-me-brown-three.vercel.app">
-        <img src="https://img.shields.io/badge/My Page-000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
-    </a>
-    <a href="https://www.instagram.com/k410369">
-        <img src="https://img.shields.io/badge/Instagram-D14836?style=for-the-badge&logo=instagram&logoColor=white&color=E1306C" alt="Email" />
-    </a>
-    <a href="linkedin.com/in/caio-vinícius-de-a-faguette-528175295">
-        <img src="https://img.shields.io/badge/Linkedin-D14836?style=for-the-badge&logo=linkedin&logoColor=white&color=blue" alt="linkedin" />
-    </a>
-</div>
+---
+
+## 🛠️ Highlighted Projects
+
+- 🧬 **Custom worms and antivirus tools** (educational purpose)  
+- 🛡️ **Secure Ubuntu server** setup with SSH for private hosting  
+- ⚙️ **Real-time systems** with Arduino for automation and robotics  
+- 🗨️ **C++ and Java chatbots** with web integration  
+- 💾 **16-bit OS prototype** written in pure Assembly
+
+---
+## 🌐 Portfolio
+
+- [About Me & Projects](https://about-me-git-main-vinicius182102gmailcoms-projects.vercel.app)
+
+---
+
+## 📫 Let's Connect
+
+- 📍 Location: Goiânia, Brazil  
+- 📧 Email: vinicius182102@gmail.com  
+- 💼 LinkedIn (optional): *Add if available*
+
+---
