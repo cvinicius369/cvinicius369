@@ -38,6 +38,5 @@
 
 - 📍 Location: Goiânia, Brazil  
 - 📧 Email: vinicius182102@gmail.com  
-- 💼 LinkedIn (optional): *Add if available*
 
 ---
