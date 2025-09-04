@@ -30,7 +30,7 @@
 ---
 ## 🌐 Portfolio
 
-- [About Me & Projects](https://about-me-git-main-vinicius182102gmailcoms-projects.vercel.app)
+- [About Me & Projects](https://new-about-me-gules.vercel.app)
 
 ---
 
