@@ -1,6 +1,9 @@
 ## Olá! Me chamo Caio! ✋
 
 <!--[ IMAGES ]-->
+<div>
+  <img src="./img1.png"/>
+</div>
 
 ---
 
