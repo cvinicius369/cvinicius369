@@ -1,14 +1,19 @@
-## Olá! Me chamo Caio! ✋
-
 <!--[ IMAGES ]-->
 <div>
   <img src="./img1.png"/>
 </div>
 
+<!--[ DESCRIPTION ]-->
+## Hi! Im Caio Vinicius
+I am a brazilian software engineer, passionate about cybersecurity, robotics and computer architecture.
+
 ---
 
 <!--[ TECHNOLOGIES ]-->
 <h3 align="center" style="font-weigth: bold;">Technologies</h3>
+
+---
+
 ### Operating Systems
 <div>
   <img height="50em" src="https://devicon-website.vercel.app/api/linux/plain.svg?color=%23FFFFFF"/>
