@@ -10,7 +10,7 @@ I am a brazilian software engineer, passionate about cybersecurity, robotics and
 ---
 
 <!--[ TECHNOLOGIES ]-->
-<h3 align="center" style="font-weigth: bold;">Technologies</h3>
+<h3 align="center" style="font-weight: bold;">Technologies</h3>
 
 ---
 
@@ -55,15 +55,16 @@ I am a brazilian software engineer, passionate about cybersecurity, robotics and
 </div>
 
 ---
-<!--[ PROJECTS ]-->
-## Some Projects
 
-<a height="50em" href="https://github.com/cvinicius369/Studying_EternalBlue">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=cvinicius369&repo=Studying_EternalBlue&theme=tokyonight&hide_border=true" alt="Readme Card"/>
-</a>
-<a height="50em" href="https://github.com/cvinicius369/SimpleOS">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=cvinicius369&repo=SimpleOS&theme=tokyonight&hide_border=true" alt="Readme Card"/>
-</a>
-<a height="50em" href="https://github.com/cvinicius369/leitor_csv">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=cvinicius369&repo=leitor_csv&theme=tokyonight&hide_border=true" alt="Readme Card"/>
-</a>
+<!--[ STATS ]-->
+<h3 align="center" style="font-weight: bold;">STATS</h3>
+
+---
+
+<div align="center">
+  <img height="150em" src="https://github-profile-trophy.vercel.app/?username=cvinicius369&theme=nord&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cvinicius369&theme=nord&show_icons=true&hide_border=true&layout=compact&hide=html,css,scss"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=cvinicius369&show_icons=true&theme=nord&hide_border=true"/>
+</div>
+
+---
